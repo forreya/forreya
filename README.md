@@ -1,4 +1,4 @@
-# Ryan Lai
+# Hey! I'm Ryan 🕺
 
 **`Junior Software Engineer & UCL Physics Graduate`**
 
