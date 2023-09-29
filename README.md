@@ -4,6 +4,6 @@
 
 KL-raised, London-based.
 
-More about me:
-🔗 [Personal Website](https://forreya.vercel.app/)
+More about me: <br />
+🔗 [Personal Website](https://forreya.vercel.app/) <br />
 📚 [Articles](https://medium.com/@forreya)
