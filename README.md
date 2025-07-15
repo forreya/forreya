@@ -1,7 +1,5 @@
-# Hey! I'm Ryan 🕺
-
-**`Junior Software Developer & UCL Physics Graduate`**
+# Hey! I'm Ryan ✮⋆˙
 
 More about me: <br />
-🔗 [Personal Website](https://forreya.vercel.app/) <br />
+🔗 [Personal Website](https://forreya.vercel.app) <br />
 📚 [Articles](https://medium.com/@forreya)
